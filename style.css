@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    background-color: #0D1A2C;
+    border: solid orange;
+    height: 100vh;
+}
+div{
+    background-color: #15273F;
+    border: solid;
+    width:400px;
+    height: 500px; 
+    border-radius: 20px;
+    margin:auto;
+    text-align: center;
+}
+section{
+
+}
+img{
+
+}
