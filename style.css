@@ -15,10 +15,14 @@ div{
     border-radius: 20px;
     margin:auto;
     text-align: center;
+    
 }
-section{
-
+h1,h3,h4,h5{
+    color:white;
 }
 img{
-
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
 }
